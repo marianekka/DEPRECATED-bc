@@ -11,7 +11,6 @@ lessons and others ebook formats (e.g. `mobi` and `azw`).
 
   This **requeres** pandoc >= 1.13.1 due a
   [issue to handle `div`s](https://github.com/jgm/pandoc/issues/1465).
-- [Calibre](http://calibre-ebook.com/)
 
   Only need to build the `mobi` and `azw` formats.
 
